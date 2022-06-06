@@ -1,5 +1,4 @@
-# mathsProblemsProjectEuler
-Maths Problems + Project Euler
+# mathsProblemsProjectEuler - assorted maths questions
 
 - An assortment of mathematical programming questions from Porject Euler - https://projecteuler.net/archives
 - Solved using brute force methods at times
